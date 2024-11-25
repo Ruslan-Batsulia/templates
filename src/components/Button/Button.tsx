@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
 type ButtonProps = {
   label: string;
   onClick: () => void;
-}
+};
 
 export default function Button({ label, onClick }: ButtonProps) {
   return (
@@ -11,5 +11,4 @@ export default function Button({ label, onClick }: ButtonProps) {
       {label}
     </button>
   );
-};
-
+}
