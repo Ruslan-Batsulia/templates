@@ -10,4 +10,3 @@
 * Next.js
 * SCSS
 * TypeScript
-
